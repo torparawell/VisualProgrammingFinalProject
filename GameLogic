@@ -1,0 +1,13 @@
+Coin System
+3 Levels: 
+Level 1: Just fish + cup 
+Level 2: Fish + cup + jellyfish
+Level 3: Fish + cup + jellyfish + blow fish 
+
+fish: 10 coins 
+cup: -10 coins
+jellyfish: -1 bait
+blowfish: =1 bait and 10 coins
+To level up to 2 : 100 coins (catch 10 fish) 
+To level up to 3: 150 coins
+To complete game: 200 coins 
